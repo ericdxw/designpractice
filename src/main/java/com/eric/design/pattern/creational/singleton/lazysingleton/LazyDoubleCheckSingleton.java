@@ -10,6 +10,7 @@ public class LazyDoubleCheckSingleton {
             synchronized (LazyDoubleCheckSingleton.class){
                 if(lazyDoubleCheckSingleton == null){
                     lazyDoubleCheckSingleton = new LazyDoubleCheckSingleton();
+
                 }
 
             }
