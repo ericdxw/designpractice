@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1613e61f-45d9-4943-9d49-918d57a07ae2" name="Default" comment="不知道提交了什么">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/Mail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/MailUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/clone/Pig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/clone/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Adaptee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Adapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/ConcretTarget.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Target.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/Battercake.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/BattercakeWithEgg.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/BattercakeWithEggSausage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/ABattercake.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/AbstactDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/Battercake.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/EggDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/SausageDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/GiftExchangeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/PointGift.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/PointsPaymentService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/QualifyService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/ShippingService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/singleton/lazysingleton/LazyDoubleCheckSingleton.java" afterPath="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/singleton/lazysingleton/LazyDoubleCheckSingleton.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,50 +42,135 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/clone/Pig.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-275">
-              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            <state relative-caret-position="180">
+              <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Battercake.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/Battercake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding>
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/clone/Test.java">
+      <file leaf-file-name="AbstactDecorator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/AbstactDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="200">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EggDecorator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/EggDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SausageDecorator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/SausageDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Adaptee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Adaptee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Target.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Target.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcretTarget.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/ConcretTarget.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+              <folding>
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Adapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Adapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <element signature="e#162#163#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mail.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/Mail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="200">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -100,29 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/principle/interfacesagregation/IAnimalAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/principle/interfacesagregation/Bird.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/principle/interfacesagregation/IFlyAnimalAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/principle/interfacesagregation/IEatAnimalAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/principle/interfacesagregation/ISwimAnimalAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/principle/interfacesagregation/Dog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/principle/demeter/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/principle/demeter/Boss.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/principle/demeter/TeamLeader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/simplefactory/Video.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/simplefactory/JavaVideo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/simplefactory/PythonVideo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/simplefactory/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/simplefactory/VideoFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/principle/demeter/迪米特原则" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/factorymethod/工厂方法" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/factorymethod/VideoFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/factorymethod/JavaVideoFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/factorymethod/PythonVideoFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/factorymethod/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/Video.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/JavaVideo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/Article.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/JavaArticle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/CourseFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/JavaCourseFactory.java" />
@@ -150,7 +233,30 @@
         <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/abstractprototype/B.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/Pig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/clone/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/clone/Pig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/QualifyService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/PointGift.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/QualifyService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/PointsPaymentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/ShippingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/GiftExchangeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/Battercake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/BattercakeWithEgg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/BattercakeWithEggSausage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/ABattercake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/Battercake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/AbstactDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/EggDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/SausageDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Adaptee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Target.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/ConcretTarget.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Test.java" />
       </list>
     </option>
   </component>
@@ -173,10 +279,10 @@
     <option name="vmOptions" value="-Dfile.encoding=GB2312" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="787" />
-    <option name="y" value="74" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="x" value="-1448" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -212,9 +318,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,8 +406,7 @@
               <item name="eric" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designpractice" type="b2602c69:ProjectViewProjectNode" />
@@ -313,9 +418,22 @@
               <item name="eric" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="clone" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="eric" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="classadapter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designpractice" type="b2602c69:ProjectViewProjectNode" />
@@ -330,7 +448,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -362,15 +480,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.eric.design.pattern.creational.builder.*" />
+          <option name="PATTERN" value="com.eric.design.pattern.structure.decorator.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.eric.design.pattern.creational.builder.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.eric.design.pattern.structure.decorator.v2.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -382,14 +500,52 @@
       <module name="designpractice" />
       <envs />
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.eric.design.pattern.creational.singleton.lazysingleton.*" />
+          <option name="PATTERN" value="com.eric.design.pattern.creational.prototype.clone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.eric.design.pattern.creational.singleton.lazysingleton.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.eric.design.pattern.creational.prototype.clone.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="designpractice" />
+      <envs />
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.eric.design.pattern.structure.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.eric.design.pattern.structure.facade.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="designpractice" />
+      <envs />
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.eric.design.pattern.structure.decorator.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.eric.design.pattern.structure.decorator.v1.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -404,11 +560,11 @@
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.eric.design.pattern.creational.builder.v2.*" />
+          <option name="PATTERN" value="com.eric.design.pattern.structure.adapter.classadapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.eric.design.pattern.creational.builder.v2.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.eric.design.pattern.structure.adapter.classadapter.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -520,39 +676,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.eric.design.pattern.creational.abstractfactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.eric.design.pattern.creational.abstractfactory.test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="designpractice" />
-      <envs />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test (4)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test (5)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test (5)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (4)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -579,7 +716,9 @@
       <workItem from="1546409637999" duration="5156000" />
       <workItem from="1546565448046" duration="1879000" />
       <workItem from="1547177306081" duration="670000" />
-      <workItem from="1547534017458" duration="7619000" />
+      <workItem from="1547534017458" duration="12305000" />
+      <workItem from="1548053000909" duration="648000" />
+      <workItem from="1548225148111" duration="11312000" />
     </task>
     <task id="LOCAL-00001" summary="不知道提交了什么">
       <created>1546418021299</created>
@@ -588,14 +727,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546418021299</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="不知道提交了什么">
+      <created>1547621395737</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547621395738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82309000" />
+    <option name="totallyTimeSpent" value="98955000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-1448" y="-8" width="1456" height="916" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -605,18 +751,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3310811" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31410256" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26413882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3323782" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39864865" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37820512" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -625,35 +771,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994602" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35732648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -687,271 +804,11 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="16" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/Article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/PythonVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.eric.design.pattern.creational.abstractfactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.eric.design.pattern.creational.abstractfactory</OriginalElement>
-          <nodes>
-            <node x="213.0" y="337.99999999999994">com.eric.design.pattern.creational.abstractfactory.JavaArticle</node>
-            <node x="211.0" y="539.0">com.eric.design.pattern.creational.abstractfactory.JavaVideo</node>
-            <node x="193.0" y="113.99999999999994">com.eric.design.pattern.creational.abstractfactory.JavaCourseFactory</node>
-            <node x="108.0" y="234.99999999999994">com.eric.design.pattern.creational.abstractfactory.Article</node>
-            <node x="542.0" y="251.99999999999994">com.eric.design.pattern.creational.abstractfactory.test</node>
-            <node x="114.0" y="-12.000000000000057">com.eric.design.pattern.creational.abstractfactory.CourseFactory</node>
-            <node x="3.0" y="539.0">com.eric.design.pattern.creational.abstractfactory.PythonVideo</node>
-            <node x="107.0" y="435.99999999999994">com.eric.design.pattern.creational.abstractfactory.Video</node>
-            <node x="3.0" y="113.99999999999994">com.eric.design.pattern.creational.abstractfactory.PythonCourseFactory</node>
-            <node x="3.0" y="337.99999999999994">com.eric.design.pattern.creational.abstractfactory.PythonArticle</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.eric.design.pattern.creational.abstractfactory.JavaVideo" target="com.eric.design.pattern.creational.abstractfactory.Video">
-              <point x="0.0" y="-26.5" />
-              <point x="305.0" y="514.0" />
-              <point x="248.0" y="514.0" />
-              <point x="47.0" y="26.5" />
-            </edge>
-            <edge source="com.eric.design.pattern.creational.abstractfactory.PythonCourseFactory" target="com.eric.design.pattern.creational.abstractfactory.CourseFactory">
-              <point x="0.0" y="-38.0" />
-              <point x="88.0" y="88.99999999999994" />
-              <point x="146.75" y="88.99999999999994" />
-              <point x="-32.75" y="38.0" />
-            </edge>
-            <edge source="com.eric.design.pattern.creational.abstractfactory.PythonVideo" target="com.eric.design.pattern.creational.abstractfactory.Video">
-              <point x="0.0" y="-26.5" />
-              <point x="97.0" y="514.0" />
-              <point x="154.0" y="514.0" />
-              <point x="-47.0" y="26.5" />
-            </edge>
-            <edge source="com.eric.design.pattern.creational.abstractfactory.JavaArticle" target="com.eric.design.pattern.creational.abstractfactory.Article">
-              <point x="0.0" y="-26.5" />
-              <point x="308.0" y="312.99999999999994" />
-              <point x="250.5" y="312.99999999999994" />
-              <point x="47.5" y="26.5" />
-            </edge>
-            <edge source="com.eric.design.pattern.creational.abstractfactory.PythonArticle" target="com.eric.design.pattern.creational.abstractfactory.Article">
-              <point x="0.0" y="-26.5" />
-              <point x="98.0" y="312.99999999999994" />
-              <point x="155.5" y="312.99999999999994" />
-              <point x="-47.5" y="26.5" />
-            </edge>
-            <edge source="com.eric.design.pattern.creational.abstractfactory.JavaCourseFactory" target="com.eric.design.pattern.creational.abstractfactory.CourseFactory">
-              <point x="0.0" y="-38.0" />
-              <point x="271.0" y="88.99999999999994" />
-              <point x="212.25" y="88.99999999999994" />
-              <point x="32.75" y="38.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.999999999999997" x="-149.0" y="196.0" />
-          <SelectedNodes>
-            <node>com.eric.design.pattern.creational.abstractfactory.PythonArticle</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Properties</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1180">
-          <caret line="83" column="18" lean-forward="false" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/sql/Statement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/sql/PreparedStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="60" column="49" lean-forward="false" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/sql/CallableStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="68" column="51" lean-forward="false" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/CourseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSessionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="89" column="29" lean-forward="false" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/JavaArticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/PythonArticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/abstractfactory/PythonCourseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.eric.design.pattern.creational.builder">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.eric.design.pattern.creational.builder</OriginalElement>
-          <nodes>
-            <node x="109.75000000000003" y="691.0">com.eric.design.pattern.creational.builder.Coach</node>
-            <node x="45.650000000000034" y="449.0">com.eric.design.pattern.creational.builder.CourseActualBuilder</node>
-            <node x="253.00000000000003" y="115.5">com.eric.design.pattern.creational.builder.CourseBuilder</node>
-            <node x="-24.0" y="-11.0">com.eric.design.pattern.creational.builder.Course</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.eric.design.pattern.creational.builder.CourseActualBuilder" target="com.eric.design.pattern.creational.builder.CourseBuilder">
-              <point x="81.66666666666669" y="-96.0" />
-              <point x="249.81666666666672" y="424.0" />
-              <point x="314.25" y="424.0" />
-              <point x="-61.25" y="84.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.1" x="-4.0" y="395.0" />
-          <SelectedNodes>
-            <node>com.eric.design.pattern.creational.builder.Coach</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/builder/CourseBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/builder/Coach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/builder/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/builder/CourseActualBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/builder/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="398" column="30" lean-forward="false" selection-start-line="398" selection-start-column="30" selection-end-line="398" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="218" column="23" lean-forward="false" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11340">
@@ -1029,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1240">
           <caret line="80" column="24" lean-forward="false" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,7 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,7 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1069,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,7 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1085,7 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,7 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,18 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/MailUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1120,7 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,47 +963,388 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/Mail.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/clone/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="220">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/clone/Pig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/clone/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/Mail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="440">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/creational/prototype/Test.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/PointGift.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/QualifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/PointsPaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/ShippingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/GiftExchangeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/facade/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.eric.design.pattern.structure.facade">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.eric.design.pattern.structure.facade</OriginalElement>
+          <nodes>
+            <node x="101.5" y="103.0">com.eric.design.pattern.structure.facade.GiftExchangeService</node>
+            <node x="279.5" y="-216.0">com.eric.design.pattern.structure.facade.Test</node>
+            <node x="-137.0" y="285.0">com.eric.design.pattern.structure.facade.PointsPaymentService</node>
+            <node x="420.0" y="280.0">com.eric.design.pattern.structure.facade.ShippingService</node>
+            <node x="595.75" y="110.0">com.eric.design.pattern.structure.facade.PointGift</node>
+            <node x="106.0" y="295.0">com.eric.design.pattern.structure.facade.QualifyService</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.eric.design.pattern.structure.facade.GiftExchangeService" target="com.eric.design.pattern.structure.facade.ShippingService">
+              <point x="102.33333333333331" y="-61.5" />
+              <point x="357.3333333333333" y="83.0" />
+              <point x="527.75" y="83.0" />
+              <point x="-51.75" y="26.5" />
+            </edge>
+            <edge source="com.eric.design.pattern.structure.facade.Test" target="com.eric.design.pattern.structure.facade.QualifyService">
+              <point x="0.0" y="-26.5" />
+              <point x="419.0" y="73.0" />
+              <point x="396.5" y="73.0" />
+              <point x="59.5" y="26.5" />
+            </edge>
+            <edge source="com.eric.design.pattern.structure.facade.Test" target="com.eric.design.pattern.structure.facade.PointsPaymentService">
+              <point x="-70.0" y="-26.5" />
+              <point x="349.0" y="256.0" />
+              <point x="52.199074074074076" y="256.0" />
+              <point x="52.199074074074076" y="83.0" />
+              <point x="49.5" y="83.0" />
+              <point x="-49.5" y="26.5" />
+            </edge>
+            <edge source="com.eric.design.pattern.structure.facade.GiftExchangeService" target="com.eric.design.pattern.structure.facade.QualifyService">
+              <point x="0.0" y="-61.5" />
+              <point x="255.0" y="83.0" />
+              <point x="277.5" y="83.0" />
+              <point x="-59.5" y="26.5" />
+            </edge>
+            <edge source="com.eric.design.pattern.structure.facade.Test" target="com.eric.design.pattern.structure.facade.GiftExchangeService">
+              <point x="-35.0" y="-26.5" />
+              <point x="384.0" y="246.0" />
+              <point x="255.0" y="246.0" />
+              <point x="0.0" y="61.5" />
+            </edge>
+            <edge source="com.eric.design.pattern.structure.facade.Test" target="com.eric.design.pattern.structure.facade.ShippingService">
+              <point x="35.0" y="-26.5" />
+              <point x="454.0" y="246.0" />
+              <point x="631.25" y="246.0" />
+              <point x="51.75" y="26.5" />
+            </edge>
+            <edge source="com.eric.design.pattern.structure.facade.GiftExchangeService" target="com.eric.design.pattern.structure.facade.PointsPaymentService">
+              <point x="-102.33333333333331" y="-61.5" />
+              <point x="152.66666666666669" y="83.0" />
+              <point x="148.5" y="83.0" />
+              <point x="49.5" y="26.5" />
+            </edge>
+            <edge source="com.eric.design.pattern.structure.facade.Test" target="com.eric.design.pattern.structure.facade.PointGift">
+              <point x="70.0" y="-26.5" />
+              <point x="489.0" y="256.0" />
+              <point x="723.25" y="256.0" />
+              <point x="0.0" y="38.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-80.0" y="155.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="541" column="3" lean-forward="true" selection-start-line="541" selection-start-column="3" selection-end-line="541" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/Battercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/BattercakeWithEgg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/BattercakeWithEggSausage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/ABattercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.eric.design.pattern.structure.decorator.v2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.eric.design.pattern.structure.decorator.v2</OriginalElement>
+          <nodes>
+            <node x="" y="">com.eric.design.pattern.structure.decorator.v2.EggDecorator</node>
+            <node x="" y="">com.eric.design.pattern.structure.decorator.v2.Test</node>
+            <node x="" y="">com.eric.design.pattern.structure.decorator.v2.AbstactDecorator</node>
+            <node x="" y="">com.eric.design.pattern.structure.decorator.v2.Battercake</node>
+            <node x="" y="">com.eric.design.pattern.structure.decorator.v2.SausageDecorator</node>
+            <node x="" y="">com.eric.design.pattern.structure.decorator.v2.ABattercake</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.2929292929292933" x="313.2968749999999" y="148.92968749999994" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/AbstactDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/Battercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/EggDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/decorator/v2/SausageDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/ConcretTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eric/design/pattern/structure/adapter/classadapter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
